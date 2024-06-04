@@ -1,0 +1,26 @@
+[
+    {
+        "productName": "Bang Show",
+        "productImage": "product-2.jpg",
+        "productDescription": "It is bang",
+        "productPrice": "125.00"
+    },
+    {
+        "productName": "Giga Watch",
+        "productImage": "product-9.jpg",
+        "productDescription": "Asdf",
+        "productPrice": "99.00"
+    },
+    {
+        "productName": "Coconut",
+        "productImage": "daab-green-coconut-1-pcs.jpg",
+        "productDescription": "So Tasty",
+        "productPrice": "120.00"
+    },
+    {
+        "productName": "Black Zingle",
+        "productImage": "product-10.jpg",
+        "productDescription": "Top Shoes",
+        "productPrice": "2000.00"
+    }
+]
